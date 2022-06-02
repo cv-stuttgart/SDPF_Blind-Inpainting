@@ -1,0 +1,64 @@
+{
+  "layers": [
+    {
+      "type": "sdpf",
+      "kernelsize": [
+        5,
+        5
+      ],
+      "outputchannels": 64,
+      "activation": "relu",
+      "alpha": null
+    },
+    {
+      "type": "conv",
+      "kernelsize": [
+        5,
+        5
+      ],
+      "outputchannels": 64,
+      "activation": "relu",
+      "alpha": null
+    },
+    {
+      "type": "conv",
+      "kernelsize": [
+        1,
+        1
+      ],
+      "outputchannels": 48,
+      "activation": "relu",
+      "alpha": null
+    },
+    {
+      "type": "conv",
+      "kernelsize": [
+        5,
+        5
+      ],
+      "outputchannels": 32,
+      "activation": "relu",
+      "alpha": null
+    },
+    {
+      "type": "conv",
+      "kernelsize": [
+        5,
+        5
+      ],
+      "outputchannels": 32,
+      "activation": "relu",
+      "alpha": null
+    },
+    {
+      "type": "conv",
+      "kernelsize": [
+        5,
+        5
+      ],
+      "outputchannels": 4,
+      "activation": "sigmoid",
+      "alpha": null
+    }
+  ]
+}
