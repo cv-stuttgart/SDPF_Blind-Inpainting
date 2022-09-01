@@ -4,7 +4,17 @@ This repository contains the code for our [paper](https://arxiv.org/abs/2205.065
 
 > **Blind Image Inpainting with Sparse Directional Filter Dictionaries for Lightweight CNNs**,<br>
 > J. Schmalfuss, E. Scheurer, H. Zeng, N. Karantzas, A. Bruhn and D. Labate<br>
-> 2022.
+> Journal of Mathematical Imaging and Vision (JMIV), 2022.
+
+```
+@Article{Schmalfuss2022BlindImageInpainting,
+  author  = {Schmalfuss, Jenny and Scheurer, Erik and Zhao, Heng and Karantzas, Nikolaos and Bruhn, Andr\'{e}s and Labate, Demetrio},
+  title   = {Blind image inpainting with sparse directional filter dictionaries for lightweight {CNNs}},
+  journal = {Journal of Mathematical Imaging and Vision},
+  year    = {2022},
+  doi     = {https://doi.org/10.1007/s10851-022-01119-6}
+}
+``
 
 If you use the code or parts of it, please cite the above publication.
 
